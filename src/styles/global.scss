@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    height: 85%;    
+}
+
+p {
+    color: #666;
+    font-size: 14px;
+    padding-bottom: 1rem;
+}
+
+.container {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 2rem;    
+}
+
+.grid {
+    display: flex;
+    justify-content: space-between;    
+}
+
+.stars {
+    margin-bottom: 2rem;    
+}
+
+.price {
+    color: #666;
+    font-weight: bold;
+}
+
+.patrocinio {
+    margin-top: 1rem;
+    height: 4rem;
+    padding: 25px 8px 16px;
+    color:#666;
+    font-size: 22px;
+}
